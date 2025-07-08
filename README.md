@@ -1,0 +1,1 @@
+Analyzed multi-year PMFBY data using advanced SQL to uncover trends in farmer enrollment, insured area, and premium distribution. Identified regional disparities and policy gaps to drive data-backed recommendations for improving insurance coverage and operational efficiency.
